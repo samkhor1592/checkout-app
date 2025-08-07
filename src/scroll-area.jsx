@@ -1,0 +1,1 @@
+export const Scroll-area = (props) => <div>{props.children}</div>;
